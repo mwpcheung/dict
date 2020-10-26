@@ -1,0 +1,2 @@
+# dict
+golang dynamic dictionary
